@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE body SYSTEM "Dragon.dtd">
+
+<body>
+
+    <title lang="en">Dungeons and Dragons is Great
+      </title>
+
+      <to>Adam and friends</to>
+      <from>Me</from>
+      <yo>This game is awesome! I must warn you that once you start playing, you may not be able to stop!</yo>
+     <author>By Konrad Young</author>
+     <playerlimit>For three or more players </playerlimit>
+     <skilllevel>For players of any experience level, from Novice to Master DM</skilllevel>
+
+<skill>Novice</skill>
+<skill>Proficient</skill>
+<skill>Regular Player</skill>
+<skill>Master DM</skill>
+
+<Chooseclass>Choose your class:</Chooseclass>
+<class>
+  <name>Rogue</name>
+  <ability>Perception, Agility</ability>
+  <teammate>Me</teammate>
+  <character>Konradius</character>
+  <goodat>Good with light weapons, thievery, sneaking</goodat>
+  <description>The rogue is the blade in the night, the last thing you never see.</description>
+
+  <name>Ranger</name>
+  <teammate>Evan</teammate>
+  <character>Evin</character>
+  <goodat>Good with bows and ranged weapons, nature.</goodat>
+  <description>The ranger is a master of ranged weaponry, pathfinding, and nature.</description>
+
+  <name>Bard</name>
+  <ability>Charisma</ability>
+  <teammate>Benjamin</teammate>
+  <character>Ben the Bard man</character>
+  <goodat>Good with music and entertainment.</goodat>
+  <description>An overlooked class, bards are mostly comic relief.</description>
+
+  <name>Barbarian</name>
+  <ability>Strength</ability>
+  <teammate>Pat</teammate>
+  <character>Patriclaus</character>
+  <goodat>Good with heavy weapons and rushing the enemy</goodat>
+  <description>The barbarian is all strength and no smarts.</description>
+
+  <name>Warlock</name>
+  <ability>Wisdom</ability>
+  <teammate>Chris</teammate>
+  <character>Zorog</character>
+  <goodat>Good with spells and incantations.</goodat>
+  <description>The wizard is good at smiting enemies with magic.</description>
+
+<name>Paladin</name>
+<ability>Intelligence</ability>
+<teammate>Adam</teammate>
+<character>TBA, he still is making his character</character>
+<goodat>Good with healing and defense, maces and shields.</goodat>
+<description>The paladin heals teamates and has a good defensive style in combat.</description>
+
+<note>
+  <info>This game has several editions. We are using 6th.</info>
+  <about>This game is the best of all time and you know it. You knew it before you even played, before you even heard of it, you just weren't consciously aware of it.</about>
+  <warning>This game is highly addictive. Say goodbye to your freetime!</warning>
+</note>
+</body>

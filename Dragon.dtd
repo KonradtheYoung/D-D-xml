@@ -1,0 +1,30 @@
+<!DOCTYPE Dragon
+[
+
+<!ELEMENT body (title,to,from,yo,author,playerlimit,skilllevel,skill,Chooseclass,class,name,ability,teammate,character,goodat,description,note,info,about,warning)>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT yo (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT playerlimit (#PCDATA)>
+
+<!ELEMENT skilllevel (skill)>
+<!ELEMENT skill (#PCDATA)>
+
+<!ELEMENT Chooseclass (class,name,ability,teammate,character,goodat,description)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT ability (#PCDATA)>
+<!ELEMENT teammate (#PCDATA)>
+<!ELEMENT character (#PCDATA)>
+<!ELEMENT goodat (#PCDATA)>'
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT note (info,about,warning)>
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT about (#PCDATA)>
+<!ELEMENT warning (#PCDATA)>
+}>
